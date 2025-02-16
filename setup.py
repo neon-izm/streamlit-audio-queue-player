@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="streamlit-queue-audio-player",
+    name="streamlit-audio-queue-player",
     version="0.1.0",
     author="neon izm",
     author_email="jj.y0sh1da@gmail.com",
